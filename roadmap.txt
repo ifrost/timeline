@@ -1,0 +1,9 @@
+A. display timeline from json with bubbles
+B. details on mouse over
+C. show importance of the events
+D. zoom in/out
+E. add an event
+F. remove an event
+G. edit an event
+
+A
