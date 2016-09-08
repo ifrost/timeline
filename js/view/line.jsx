@@ -1,4 +1,4 @@
-var Line = React.createClass({
+export default React.createClass({
    render: function() {
       return <line></line>
    }
