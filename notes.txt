@@ -8,3 +8,11 @@
 actions:
 * read the tutorial and be prepared for the next session knowing how the base bootstrap works
 * we need to understand to how structure a ReactJS projects
+
+08.09.2016
+* setting the structure, mock ui/skeleton was simple when we knew how to split the project into separate files
+* when adding many files we decided to build and minify them properly instead of adding to index.html
+* there's many options options how to use react with commonjs/amd/umd/etc and we didn't manage to set up anything in 30 min
+
+actions:
+* understand how to setup es6+react

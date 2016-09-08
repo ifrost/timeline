@@ -1,4 +1,4 @@
-var Event = React.createClass({
+export default React.createClass({
    render: function() {
       return <circle r="5" />;
    }

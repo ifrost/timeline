@@ -1,4 +1,7 @@
-var Timeline = React.createClass({
+import Event from 'event';
+import Line from 'line';
+
+export default React.createClass({
    render: function() {
       return <svg>
          <g>
