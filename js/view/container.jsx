@@ -1,5 +1,5 @@
 var Container = React.createClass({
    render: function () {
-      return <div>Hello {this.props.name}</div>;
+      return <Timeline />;
    }
 });
