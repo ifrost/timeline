@@ -1,5 +1,5 @@
 export default React.createClass({
    render: function() {
-      return <circle r="5" />;
+      return <circle r="10" />;
    }
 });

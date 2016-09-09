@@ -1,5 +1,5 @@
-import Event from 'event';
-import Line from 'line';
+import Event from './event';
+import Line from './line';
 
 export default React.createClass({
    render: function() {

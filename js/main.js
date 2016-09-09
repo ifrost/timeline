@@ -1,4 +1,4 @@
-import Container from 'view/container.jsx';
+import Container from './view/container';
 
 ReactDOM.render(
    <Container />,
