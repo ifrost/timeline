@@ -16,3 +16,11 @@ actions:
 
 actions:
 * understand how to setup es6+react
+
+09.09.2016
+* clearly we know nothing about SVG
+* React gives nice error messages in the console
+* Passing the data and rendering it was easy-peasy
+
+actions:
+* think about the approach and come up with basic architecture/structure of the project
