@@ -1,5 +1,5 @@
 export default React.createClass({
-   render: function() {
-      return <circle r="10" />;
+   render() {
+      return <circle r={this.props.event.r} cx={this.props.event.x} cy="20"/>;
    }
 });
