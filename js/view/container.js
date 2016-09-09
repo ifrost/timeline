@@ -1,4 +1,5 @@
 import Timeline from './timeline';
+import TimelineModel from '../model/timeline';
 
 export default React.createClass({
    render() {
@@ -7,7 +8,10 @@ export default React.createClass({
          { r: 10, x: 50, key: 2 },
          { r: 8, x: 100, key: 3 }
       ];
+      
+      let timeline = new TimelineModel(new Date(2000,1,1), new Date(2010,1,1));
+      timeline.events = events;
 
-      return <Timeline events={events} />;
+      return <Timeline timeline={timeline} />;
    }
 });
