@@ -24,3 +24,10 @@ actions:
 
 actions:
 * think about the approach and come up with basic architecture/structure of the project
+
+19.09.2016
+* we came up with rough plan, but...
+* we didn't set up test framework to do TDD
+
+actions:
+* setup test framework
